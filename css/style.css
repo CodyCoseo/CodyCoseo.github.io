@@ -12,7 +12,7 @@ h1
 section
 {
   color: var(--favcolor);
-  float: right;
+  float: center;
 }
 p
 {
