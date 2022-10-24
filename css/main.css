@@ -13,3 +13,17 @@ ul
 {
 font-size: 17pt;
 }
+h2
+{
+font-weight: 100;
+font-style: oblique;
+text-decoration: underline;
+}
+p
+{
+text-indent: 1cm;
+}
+li
+{
+font-family: sans-serif;
+}
